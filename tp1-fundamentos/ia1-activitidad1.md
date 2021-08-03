@@ -35,8 +35,7 @@ Los sistemas de aprendizaje automático se basan en modelos de redes neuronales:
 
 La inteligencia artificial no va a reemplazar al equipo médico , pero si va a ser un potente elemento más para complementar a la hora de tomar una decisión o dar un diagnóstico correcto.
 
-
-### Qué es la Inteligencia Artificial
+### ¿Qué se entiende por Inteligencia Artificial?
 
 Inteligencia artificial para nosotros es una disciplina que trata de crear sistemas capaces de aprender y razonar como el ser humano , con la capacidad de adaptarse a cualquier contexto en una escala de tiempo record , es decir esta compuesta de algoritmos que aprenden y procesan flujos de datos extensos y complejos en tiempos muy cortos 
 
@@ -73,4 +72,6 @@ https://medium.com/metadatos/qu%C3%A9-es-la-transferencia-de-aprendizaje-y-c%C3%
 https://www.sas.com/es_cl/whitepapers/local/machine-learning.html?utm_source=google&utm_medium=cpc&utm_campaign=ana-mln-cala&utm_content=2599998&gclid=CjwKCAjw0qOIBhBhEiwAyvVcf0a1fP_ZBmuvh82yPK15w1-c2R4DeOP0fK9_6aFnmMQkJ9xBgi8KFhoC3c8QAvD_BwE
 
 https://innovation.teleradweb.com.ar/blog/inteligencia-artificial-que-soluciones-trae-en-el-diagnostico-por-imagenes
+
+https://www.xataka.com/robotica-e-ia/que-inteligencia-artificial
 
