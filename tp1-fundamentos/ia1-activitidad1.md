@@ -1,2 +1,2 @@
 
-Inteligencia Artificial
+Inteligencia **Artificial**
