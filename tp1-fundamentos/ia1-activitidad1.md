@@ -14,6 +14,9 @@ Scorsese no quería que los famosos actores tuvieran que desarrollar su trabajo 
 Principalmente existían dos tecnologías para rejuvenecer a los actores. La primera tecnología consiste en crear un doble virtual del actor, con las imágenes capturadas del rostro del actor realizando diferentes movimientos faciales. La segunda es animar al doble virtual, lo hace el propio actor a partir de sus expresiones faciales. Para ello se le equipa con un dispositivo de captura de movimiento que consiste en un casco con varias cámaras enfocando la cara, y marcadores (puntos dibujados) en la cara. El dispositivo captura el desplazamiento de esos puntos en su rostro, y anima consecuentemente el doble digital. Este sistema tiene la desventaja que ciertas expresiones faciales se pierden además obligas al actor a llevar durante el rodaje un casco con varias cámaras, y la cara llena de puntos, lo que dificulta su interpretación.
 Así que ILM se puso a desarrollar un nuevo sistema compuesto de un conjunto de cámaras llamada “el monstruo de las tres cabezas”, y un software de procesado de imágenes llamado Flux.
 
+![imagen](https://user-images.githubusercontent.com/88351627/128095802-8c493099-c450-4953-80ba-845b91ddac69.png)
+
+
 En el centro se coloca una cámara de producción en 8k, a los costados dos cámaras que registran luz infrarroja y cada secuencia de datos se envía por cada fotograma. El actor en su cara tiene una malla que se deforma (modelo geométrico) y se corrige en post producción. 
 Entre las principales ventajas de este nuevo sistema creado por ILM es que no es intrusivo, y se puede usar para planos cercanos donde capturar la actuación es importante, a diferencia de otros sistemas de rejuvenecimiento usados hasta el momento donde el énfasis está en la acción.
 
