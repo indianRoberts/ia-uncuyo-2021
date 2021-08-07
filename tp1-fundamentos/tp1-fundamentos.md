@@ -82,21 +82,22 @@ Searle y Penrose dicen que los defensores de la “inteligencia artificial fuert
 
 Se han identificado ocho amenazas potenciales para la sociedad que se exponen tanto ante la IA como ante una tecnología relacionada.
 
-Las personas podrían perder sus trabajos por la automatización.Hasta ahora, la automatización por medio de la tecnología de la IA ha creado más trabajos de los que ha eliminado, y ha creado puestos de trabajo más interesantes y mejor pagados:
+• **Las personas podrían perder sus trabajos por la automatización**.
+Hasta ahora, la automatización por medio de la tecnología de la IA ha creado más trabajos de los que ha eliminado, y ha creado puestos de trabajo más interesantes y mejor pagados.
 
-• Las personas podrían tener demasiado (o muy poco) tiempo de ocio.
+• **Las personas podrían tener demasiado (o muy poco) tiempo de ocio**.
 La IA incrementa el ritmo de la innovación tecnológica y contribuye así a esta tendencia general, pero la IA también mantiene la promesa de permitirnos ahorrar tiempo y permitir que nuestros agentes automatizados hagan las cosas por un tiempo.
 
-• Las personas podrían perder el sentido de ser únicos.
+• **Las personas podrían perder el sentido de ser únicos**.
 La IA aunque sea una materia de gran éxito, quizá sea por lo menos amenazante para las suposiciones morales de la sociedad del siglo XXI al igual que la teoría de la evolución
 lo fue para los del siglo XIX.
 
-• Las personas podrían perder algunos de sus derechos privados.
+• **Las personas podrían perder algunos de sus derechos privados.**
 
-• La utilización de los sistemas de IA podría llevar a la pérdida de responsabilidad.
+• **La utilización de los sistemas de IA podría llevar a la pérdida de responsabilidad**.
 Al igual que con la tecnología para la reproducción humana, la ley tiene todavía que ponerse a la altura de los nuevos desarrollos.
 
-• El éxito de la IA podría significar el fin de la raza humana.
+• **El éxito de la IA podría significar el fin de la raza humana**.
 Si los robots adquieren consciencia, tratarlos entonces como meras «máquinas ̈ (por ejemplo, tratarlos como algo aparte) podría ser inmoral. Los robots también deben actuar moralmente,necesitaríamos programarlos con una teoría de lo que está bien y lo que está mal. Los escritores de ciencia ficción han abordado el tema de los derechos y responsabilidades de los robots, empezando por Isaac Asimov (1942). La famosa película titulada A.I. (Spielberg, 2001) se basó en una historia de Brian Aldiss sobre el robot inteligente que fue programado para creer que él era un humano y que no entiende el abandono final por parte de su madre-propietaria. La historia (y la película) convencen de la necesidad de los robots para moverse por sus derechos civiles.
 
 
