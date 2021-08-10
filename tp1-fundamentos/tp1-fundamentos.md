@@ -100,6 +100,6 @@ Al igual que con la tecnología para la reproducción humana, la ley tiene todav
 • **El éxito de la IA podría significar el fin de la raza humana**.
 Si los robots adquieren consciencia, tratarlos entonces como meras «máquinas ̈ (por ejemplo, tratarlos como algo aparte) podría ser inmoral. Los robots también deben actuar moralmente,necesitaríamos programarlos con una teoría de lo que está bien y lo que está mal. Los escritores de ciencia ficción han abordado el tema de los derechos y responsabilidades de los robots, empezando por Isaac Asimov (1942). La famosa película titulada A.I. (Spielberg, 2001) se basó en una historia de Brian Aldiss sobre el robot inteligente que fue programado para creer que él era un humano y que no entiende el abandono final por parte de su madre-propietaria. La historia (y la película) convencen de la necesidad de los robots para moverse por sus derechos civiles.
 
-
+#Sección de discusión
 
 
