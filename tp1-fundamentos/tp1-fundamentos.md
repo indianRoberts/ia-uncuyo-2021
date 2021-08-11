@@ -100,22 +100,24 @@ Al igual que con la tecnología para la reproducción humana, la ley tiene todav
 • **El éxito de la IA podría significar el fin de la raza humana**.
 Si los robots adquieren consciencia, tratarlos entonces como meras «máquinas ̈ (por ejemplo, tratarlos como algo aparte) podría ser inmoral. Los robots también deben actuar moralmente,necesitaríamos programarlos con una teoría de lo que está bien y lo que está mal. Los escritores de ciencia ficción han abordado el tema de los derechos y responsabilidades de los robots, empezando por Isaac Asimov (1942). La famosa película titulada A.I. (Spielberg, 2001) se basó en una historia de Brian Aldiss sobre el robot inteligente que fue programado para creer que él era un humano y que no entiende el abandono final por parte de su madre-propietaria. La historia (y la película) convencen de la necesidad de los robots para moverse por sus derechos civiles.
 
-## Mapa mental
+
+# Mapa mental
 https://gitmind.com/app/doc/55f2985264
 
-#Sección de discusión
- Nuestros estados mentales, no sólo tienen sintaxis sino también semántica. Searle lo resume en una frase: “La sintaxis sola no es suficiente para la semántica y los ordenadores digitales en tanto que son ordenadores tienen, por definición, solamente sintaxis”. Amén.
-En el ejemplo de la habitación china, la persona que está dentro de la habitación china no conoce más que la sintaxis del idioma. Desconoce por completo el contenido de los mensajes. Los “programadores” que están fuera de la habitación introducen “preguntas” y la persona dentro de la sala emite “respuestas” válidas, gracias a sus diccionarios y manuales. Para los que están en el exterior, la habitación es experta en chino. Pero la realidad es que quien está en su interior -sea el hombre o el mecanismo del primer caso- no tiene idea del significado de esos garabatos que lee y escribe.
+# Sección de discusión
+
+Nuestros estados mentales, no sólo tienen sintaxis sino también semántica. Searle lo resume en una frase: “La sintaxis sola no es suficiente para la semántica y los ordenadores digitales en tanto que son ordenadores tienen, por definición, solamente sintaxis”. En el ejemplo de la habitación china, la persona que está dentro de la habitación no conoce más que la sintaxis del idioma. Desconoce por completo el contenido de los mensajes. Los “programadores” que están fuera de la habitación introducen “preguntas” y la persona dentro de la sala emite “respuestas” válidas, gracias a sus diccionarios y manuales. Para los que están en el exterior, la habitación es experta en chino. Pero la realidad es que quien está en su interior -sea el hombre o el mecanismo del primer caso- no tiene idea del significado de esos garabatos que lee y escribe.
 
 A demas en el caso planteado, el interprete, simplemente lee las entradas mediante los "manuales" y lo lleva a algo para lo que ya tiene reglas e información previa: "su idioma", exactamente como lo haría una IA, llega a la conclusión y repite el proceso a la inversa.
 
 
-En el caso de la AI fuerte podriamos decir que la máquina tendría procesos cognitivos, que piensa, tiene una representación del mundo en el interior, puede imaginar y simular escenarios antes de tomar una decisión. Es una réplica del humano casi componente a componente. En teoría es posible, pero no se ha hecho ni se sabe cómo hacerlo, pero en teoría es algo posible",
+En el caso de la **AI fuerte** podriamos decir que la máquina tendría procesos cognitivos, que piensa, tiene una representación del mundo en el interior, puede imaginar y simular escenarios antes de tomar una decisión. Es una réplica del humano casi componente a componente. En teoría es posible, pero no se ha hecho ni se sabe cómo hacerlo, pero en teoría es algo posible",
 
-Por otro lado, la IA débil se define de acuerdo al académico desde un punto de vista netamente conductual. "Tengo una máquina que se comporta como un humano en todas las tareas: cuenta chistes, hace el cubo rubik, aprende, escribe y lee como un humano. Fuera del aspecto físico soy incapaz de discernir si es humano o máquina, porque no se evalúa la existencia de actividad cognitiva en su interior".
+Por otro lado, la **IA débil** se define de acuerdo al académico desde un punto de vista netamente conductual. "Tengo una máquina que se comporta como un humano en todas las tareas: cuenta chistes, hace el cubo rubik, aprende, escribe y lee como un humano. Fuera del aspecto físico soy incapaz de discernir si es humano o máquina, porque no se evalúa la existencia de actividad cognitiva en su interior".
 
 Estrictamente hablando la IA fuerte no se ha logrado y parece imposible con la tecnología actual. La débil también, porque es imposible hasta ahora construir una máquina que interactúe tu a tú con un humano, por lo que la única forma de que existan es reducir el espacio en el que son evaluadas a una sola actividad, no a las miles que son propias de un día cotidiano de una persona", como hacer un café, predecir el valor de una acción, jugar ajedrez, escenarios tan pequeños donde la variabilidad de las acciones permiten programar una IA a nivel humano.
-¿Puede la IA débil reemplazar a los seres humanos? Este tipo de IA se crea para abordar tareas específicas y con un alcance limitado de acción, por lo que los humanos siguen siendo los proveedores de los criterios finales para su funcionamiento, al menos por ahora. 
-Un ejemplo interesante sobre esto es ”las máquinas no pueden construir sociedades, debido a su falta de imaginación colectiva". 
+
+Y con respecto a la última sección, si la AI se crea para abordar tareas específicas y con un alcance limitado de acción, los humanos siguen siendo los proveedores de los criterios finales para su funcionamiento, al menos por ahora. 
+Un ejemplo interesante sobre esto es ”las máquinas no pueden construir sociedades, debido a su falta de imaginación colectiva,intereses afectivos, intuitivos interactividad entre distintas culturas". 
 
 
