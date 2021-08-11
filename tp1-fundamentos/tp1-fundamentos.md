@@ -62,6 +62,8 @@ El contenido amplio es totalmente apropiado si el objetivo de uno es atribuir es
 
 ### El experimento de la prótesis cerebral
 
+La teoría del **funcionalismo** afirma que un estado mental es cualquier condición causal intermedia entre una entrada y una salida. Según esta teoría, dados dos sistemas cualesquiera con procesos causales isomórficos, estos tendrían el mismo estado mental. Es decir, una computadora sería capaz de tener el mismo estado mental que una persona.
+
 Suponga que la neurofisiología ha evolucionado hasta tal punto que el comportamiento y las conexiones de entrada y salida de todas las neuronas del cerebro humano se entienden perfectamente. Además, suponga que podemos construir mecanismos electrónicos microscópicos que imitan este comportamiento y que pueden interconectarse con el tejido neuronal. Y finalmente, suponga que una técnica quirúrgica milagrosa puede sustituir las neuronas individuales con los mecanismos electrónicos sin interrumpir el funcionamiento del cerebro por completo. El experimento consiste en sustituir gradualmente todas las neuronas de la cabeza de alguien con mecanismos electrónicos y a continuación invertir el proceso para retornar al sujeto a su estado biológico normal.
 Ahora bien, aunque la presencia o ausencia de consciencia no la pueda asegurar fácilmente un tercero, el sujeto del experimento debería por lo menos poder registrar cualquier cambio en su propia experiencia consciente.
 
