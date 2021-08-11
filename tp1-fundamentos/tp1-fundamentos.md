@@ -118,6 +118,6 @@ Por otro lado, la **IA débil** se define de acuerdo al académico desde un punt
 Estrictamente hablando la IA fuerte no se ha logrado y parece imposible con la tecnología actual. La débil también, porque es imposible hasta ahora construir una máquina que interactúe tu a tú con un humano, por lo que la única forma de que existan es reducir el espacio en el que son evaluadas a una sola actividad, no a las miles que son propias de un día cotidiano de una persona", como hacer un café, predecir el valor de una acción, jugar ajedrez, escenarios tan pequeños donde la variabilidad de las acciones permiten programar una IA a nivel humano.
 
 Y con respecto a la última sección, si la AI se crea para abordar tareas específicas y con un alcance limitado de acción, los humanos siguen siendo los proveedores de los criterios finales para su funcionamiento, al menos por ahora. 
-Un ejemplo interesante sobre esto es ”las máquinas no pueden construir sociedades, debido a su falta de imaginación colectiva,intereses afectivos, intuitivos interactividad entre distintas culturas". 
+Un ejemplo interesante sobre esto es ”las máquinas no pueden construir sociedades, debido a su falta de imaginación colectiva,intereses afectivos o intuitivos". 
 
 
